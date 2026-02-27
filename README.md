@@ -8,7 +8,6 @@ This project marks the beginning of my journey into web development. It serves a
 ## 🛠️ Built With
 *(Projenin altyapısına göre burayı düzenleyebilirsin)*
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript
-* **Other Tools:** Git, GitHub
 
 ## ⚙️ Getting Started
 To get a local copy up and running, follow these simple steps.
