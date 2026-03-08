@@ -6,7 +6,6 @@ Welcome to my very first web development project! This repository contains the s
 This project marks the beginning of my journey into web development. It serves as a hands-on application to demonstrate my understanding of building, structuring, and deploying a web application from scratch. 
 
 ## 🛠️ Built With
-*(Projenin altyapısına göre burayı düzenleyebilirsin)*
 * **Frontend:** HTML5, CSS3
 
 ## ⚙️ Getting Started
